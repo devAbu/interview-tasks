@@ -1,0 +1,1 @@
+Write numbers for x to y, but for multiples of 3 print FIZZ instead of the number and for the multiples of 5 print BUZZ...and for the numbers which are multiples of 3 and 5 print FIZZBUZZ
